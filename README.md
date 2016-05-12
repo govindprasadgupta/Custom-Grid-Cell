@@ -1,5 +1,8 @@
 # Custom-Grid-Cell
 
+![Demo] (https://cloud.githubusercontent.com/assets/19161360/15206342/0f1e54a6-183c-11e6-846e-ef8497ade556.gif)
+
+
 A GridView is created like a collection view and delegates are used to show it on screen.
 
 First create a instance of grid view
